@@ -1,0 +1,2 @@
+While Splits is highly effective, certain limitations apply, particularly for Base users dealing with non-standard tokens. Pull Splits do not support non-transferable, fee-on-transfer, or rebasing tokens, which could get stuck in contracts unless managed by an owner. Base users must ensure compatibility with their token types and be mindful of gas limits when creating large Splits, as these could lead to locked funds.
+
