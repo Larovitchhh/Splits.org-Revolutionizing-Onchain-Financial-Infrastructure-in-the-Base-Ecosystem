@@ -1,0 +1,8 @@
+Splits.org provides a suite of modular smart contracts designed to simplify and secure onchain payment processes. Unlike traditional financial systems that rely on intermediaries, Splits operates as a "hyperstructure"—a decentralized, non-upgradable protocol that runs indefinitely at the cost of gas, with no protocol fees or trusted third parties. Launched initially on Ethereum mainnet, Splits has expanded to support multiple chains, including Base, Optimism, Polygon, Arbitrum, and others, making it a multichain-first platform.Key features of Splits include:Zero Fees: Splits charges no protocol fees, operating solely at gas cost, ensuring cost efficiency for users.
+Multichain Support: Deployed on 12+ Ethereum Virtual Machine (EVM) chains, including Base, Splits supports ETH and ERC20 tokens across these networks.
+Audited and Open-Source: All contracts are verified, audited, and publicly available on GitHub, ensuring transparency and security.
+Composable Design: Splits offers modular tools like Split, Waterfall, Swapper, and Liquid Split, allowing teams to create customized payout flows.
+Efficient Automation: Bots and third parties can be incentivized to handle repetitive tasks, streamlining operations.
+
+Splits has distributed over $100 million to more than 50,000 recipients, earning trust from platforms like Zora, Sound.xyz, and Protocol Guild, as well as DAOs, musicians, and creative collectives.
+
