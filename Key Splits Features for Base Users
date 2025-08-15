@@ -1,0 +1,5 @@
+Split Contracts: Act as equity instruments, distributing ETH and ERC20 tokens based on pre-set ownership percentages. This is ideal for Base-based teams splitting revenue from NFT sales or protocol fees.
+Waterfall and Swapper: Allow teams to recoup expenses before distributing profits or swap tokens into stablecoins, enhancing financial flexibility on Base.
+Splits Teams: A system of multichain multisigs using passkeys and paymasters, providing secure access control for Base-based operations.
+Earn: Introduced in February 2025, this feature allows Base users to generate yield on USDC with no minimums, integrated directly into the Splits app.
+
